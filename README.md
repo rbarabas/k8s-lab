@@ -43,4 +43,4 @@ The script assumes an enviroment with the following VMs/domains:
 `$ ./lab.sh ping`
 
 ## Create bash completion rules
-``# ./lab.sh bash-completion > /etc/bash_completion.d/lab`
+`# ./lab.sh bash-completion > /etc/bash_completion.d/lab`
